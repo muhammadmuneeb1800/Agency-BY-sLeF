@@ -1,0 +1,39 @@
+.heading{
+    font-size: 72px;
+    font-weight: 600;
+    line-height:85px;
+    width:500px;
+    margin-top:30px;
+}
+
+.section-p{
+    font-size: 16px;
+    line-height:28px;
+    width:500px;
+    margin-top:25px;
+    margin-bottom:30px;
+}
+
+.section-btn{
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom:230px;
+    border-radius: 25px;
+    background-color: #2370C8;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 8px 23px;
+    border: 2px solid #2370C8;
+}
+
+.section-btn:hover{
+    background-color: #0a74ec;
+}
+
+.first{
+    background-image:url('../../images/Background.png');
+    background-repeat:no-repeat;
+    background-size: cover;
+    color :white;
+    margin-bottom: 150px;
+}

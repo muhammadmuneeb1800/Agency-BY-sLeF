@@ -1,0 +1,36 @@
+.header-link{
+    padding: 0px 8px;
+    font-size: 16px;
+    font-weight: 600;
+    color:white;
+}
+
+.header-logo{
+    position: absolute;
+    margin-top: -20px;
+    height: 60px;
+    margin-left: 10px;;
+}
+
+
+.header-link:hover{
+    color: #2370C8;
+}
+.inp{
+    padding: 6px 15px;
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 20px;
+    outline: white;
+    color: #2370C8;
+}
+
+::placeholder{
+    color: blue;
+    font-weight: 600;
+}
+
+img{
+    position: relative;
+    margin-left: -40px;
+}
